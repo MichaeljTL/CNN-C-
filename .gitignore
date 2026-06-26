@@ -1,0 +1,49 @@
+# Build outputs
+build/
+out/
+bin/
+lib/
+informe/
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+compile_commands.json
+CTestTestfile.cmake
+Testing/
+
+# Visual Studio
+.vs/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.user
+*.opendb
+*.VC.db
+
+# Compiled binaries and objects
+*.exe
+*.dll
+*.lib
+*.obj
+*.pdb
+*.ilk
+*.exp
+
+# LaTeX generated files
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+*.toc
+
+# Archives
+*.zip
+
+# OS/editor noise
+Thumbs.db
+.DS_Store
+.vscode/
